@@ -1,2 +1,2 @@
-# Looker-Dashboards-Codes
-This is done for Fitbit Lifecycle Team
+# Deeplearning.ai Asignment answers
+ Course Name: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
